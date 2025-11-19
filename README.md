@@ -1,56 +1,46 @@
 <div align="center">
 
-<!-- Testa animata -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Francesco+Marrone!;" />
+<!-- Titolo animato -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=38&center=true&vCenter=true&width=700&height=70&duration=3500&pause=700&color=00E5FF&lines=Hi+There!+👋;+I'm+Francesco+Marrone;+Full‑Stack+Developer;+Clean+Code+%26+Performance+Addict" />
 
-<!-- Banner con effetto -->
-<img src="https://i.imgur.com/6Jx7D4M.gif" width="100%"/>
+<!-- Capsule banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:0A84FF&height=180&section=header&text=Full‑Stack%20Cosmonaut&fontSize=36&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<!-- Badges coloratissimi -->
-<div align="center">
+<!-- Nebula background -->
+<img src="https://i.imgur.com/6Jx7D4M.gif" width="100%" alt="Cosmic banner"/>
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- Badge skyline -->
+<img src="https://img.shields.io/badge/Napoli%2C%20Italia-Home%20base-0A84FF?style=for-the-badge&logo=pinboard&logoColor=white" />
+<img src="https://img.shields.io/badge/ETES-Building%20amazing%20things-34C759?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=kekko2004&style=for-the-badge&color=0A84FF&label=Visitors" />
 
 </div>
 
-<br/>
+---
 
-<!-- Contatore visite stiloso -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/kekko2004/count.svg" />
-  <br/>
-  <em>🔥 Siamo in <b><span id="visitors-count">tanti</span></b> qui! 🔥</em>
-</p>
-
-</div>
-
-<br/>
-
-<!-- 🌈 SEZIONE ABOUT ME -->
-<div align="center">
-
-# 🎯 **ABOUT ME**
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-</div>
+## 🎯 About me
 
 <div align="center">
+<img src="https://media.tenor.com/mFfYwC1GmvQAAAAC/astronaut-space.gif" height="140" alt="Astronaut gif"/>
+</div>
 
 ```javascript
 const francesco = {
-  pronouns: "He" | "Him",
-  code: ["Java", "TypeScript", "JavaScript", "HTML", "CSS"],
-  frameworks: ["Spring Boot", "Angular", "React", "Node.js"],
-  databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  tools: ["Docker", "Git", "Kubernetes", "Postman"],
-  architecture: ["Microservices", "REST APIs", "MVC"],
-  passions: ["F1 🏎️", "Clean Code", "Performance", "Innovation"],
+  pronouns: "He/Him",
+  role: "Full-Stack Developer",
+  code: ["Java", "TypeScript", "JavaScript", "HTML", "CSS", "SQL", "Bash"],
+  backend: ["Spring Boot", "Node.js", "NestJS", "Express", "Quarkus"],
+  frontend: ["Angular", "React", "Next.js", "Redux", "RxJS"],
+  mobile: ["React Native", "Ionic"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  cloud: ["Docker", "Kubernetes", "OpenShift", "AWS", "GCP", "Azure"],
+  ops: ["GitHub Actions", "GitLab CI", "Jenkins", "SonarQube"],
+  testing: ["JUnit", "Mockito", "Testcontainers", "Cypress", "Jest", "Playwright"],
+  architecture: ["Microservices", "Event-driven", "CQRS", "Hexagonal", "REST", "GraphQL"],
+  messaging: ["Kafka", "RabbitMQ"],
+  observability: ["Prometheus", "Grafana", "ELK", "OpenTelemetry"],
+  security: ["OAuth2", "OIDC", "Keycloak", "JWT", "OWASP"],
+  passions: ["F1 🏎️", "Clean Code", "Performance", "Innovation", "DX"],
   currentFocus: "Building amazing things at ETES 🚀",
   funFact: "I can talk about F1 for hours without stopping! 🏆"
 };
