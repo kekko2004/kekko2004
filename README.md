@@ -6,8 +6,6 @@
 <!-- Capsule banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:0A84FF&height=180&section=header&text=Full‑Stack%20Cosmonaut&fontSize=36&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
-<!-- Nebula background -->
-<img src="https://i.imgur.com/6Jx7D4M.gif" width="100%" alt="Cosmic banner"/>
 
 <!-- Badge skyline -->
 <img src="https://img.shields.io/badge/Napoli%2C%20Italia-Home%20base-0A84FF?style=for-the-badge&logo=pinboard&logoColor=white" />
