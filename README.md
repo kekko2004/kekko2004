@@ -6,11 +6,10 @@
                 <p><b>Role:</b> Full‑Stack Developer 🚀</p>
                 <p><b>Pronouns:</b> He / Him</p>
                 
-                <hr style="border:1px solid #00E5FF;"/>
                 
                 <h3 style="color:#FFD60A;">💡 Skills</h3>
                 <p>
-                    <b>Languages:</b><br/>
+                    <b>Languages:</b>
                     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
                     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
                     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
