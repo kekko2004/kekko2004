@@ -25,12 +25,12 @@
   <table style="border: 2px solid #0A84FF; border-radius: 12px; background-color:#0D0D0D; color:#00E5FF; padding:20px; width:80%;">
     <tr>
       <td align="center">
-
+<div></div>
         <h2 style="color:#34C759;">👨‍💻 Francesco Marrone</h2>
         <p><b>Role:</b> Full-Stack Developer 🚀</p>
-
+<div></div>
         <hr style="border:1px solid #00E5FF;"/>
-
+<div></div>
      <h3 style="color:#FFD60A;">💡 Skills</h3>
 
 <p>
@@ -78,14 +78,14 @@
   <b>Security:</b> OAuth2 • JWT
 </p>
 
-
+<div></div>
         <hr style="border:1px solid #00E5FF;"/>
-
+<div></div>
         <h3 style="color:#FF2D55;">🔥 Passions</h3>
         <p>F1 🏎️ • Clean Code • Performance • Innovation • Developer Experience</p>
         <p><b>Current Focus:</b> Building amazing things at ETES 🚀</p>
         <p><b>Fun Fact:</b> I can talk about F1 for hours without stopping 🏆</p>
-
+<div></div>
       </td>
     </tr>
   </table>
