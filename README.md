@@ -25,9 +25,7 @@
   <table style="border: 2px solid #0A84FF; border-radius: 12px; background-color:#0D0D0D; color:#00E5FF; padding:20px; width:80%;">
     <tr>
       <td align="center">
-<div></div>
-        <h2 style="color:#34C759;">👨‍💻 Francesco Marrone</h2>
-        <p><b>Role:</b> Full-Stack Developer 🚀</p>
+
 <div></div>
         <hr style="border:1px solid #00E5FF;"/>
 <div></div>
@@ -37,7 +35,7 @@
   <b>Languages:</b>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-A0234E?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-690A4E?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-690A4E?style=for-the-badge&logo=javascript&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-A52A2A?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-008B8B?style=for-the-badge&logo=postgresql&logoColor=white" />
