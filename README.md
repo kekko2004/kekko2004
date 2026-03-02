@@ -55,6 +55,8 @@
 
   <b>Mobile:</b>
   <img src="https://img.shields.io/badge/Capacitor-5f9ea0?style=for-the-badge&logo=capacitor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-326CE5?style=for-the-badge&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-2496ED?style=for-the-badge&logo=Android%20Studio&logoColor=white" />
   <br/><br/>
 
   <b>Databases:</b>
@@ -81,7 +83,7 @@
 <div></div>
         <h3 style="color:#FF2D55;">🔥 Passions</h3>
         <p>F1 🏎️ • Clean Code • Performance • Innovation • Developer Experience</p>
-        <p><b>Current Focus:</b> Building amazing things at ETES 🚀</p>
+        <p><b>Current Focus:</b>Working at business application based on Android</p>
         <p><b>Fun Fact:</b> I can talk about F1 for hours without stopping 🏆</p>
 <div></div>
       </td>
