@@ -55,7 +55,7 @@
 
   <b>Mobile:</b>
   <img src="https://img.shields.io/badge/Capacitor-5f9ea0?style=for-the-badge&logo=capacitor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-326CE5?style=for-the-badge&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-690A4E?style=for-the-badge&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-2496ED?style=for-the-badge&logo=Android%20Studio&logoColor=white" />
   <br/><br/>
 
