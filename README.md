@@ -8,7 +8,7 @@
 
   <!-- Badge skyline -->
   <img src="https://img.shields.io/badge/Napoli%2C%20Italia-Home%20base-0A84FF?style=for-the-badge&logo=pinboard&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETES-Building%20amazing%20things-34C759?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building%20amazing%20things-34C759?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=kekko2004&style=for-the-badge&color=0A84FF&label=Visitors" />
 
 </div>
